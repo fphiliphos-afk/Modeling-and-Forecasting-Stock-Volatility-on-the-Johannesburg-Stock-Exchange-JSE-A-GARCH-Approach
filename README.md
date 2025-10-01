@@ -14,7 +14,7 @@ Forecast volatility for 5–10 business days ahead
 
 Visualize conditional volatility and forecasts
 
-⚙️ Tools & Libraries
+# **⚙️ Tools & Libraries**
 
 Python (Jupyter Notebook)
 
@@ -25,21 +25,3 @@ matplotlib → visualization
 statsmodels → statistical tests (ADF)
 
 arch → GARCH modeling
-
-yfinance → stock price data
-📂 Repository Contents
-├── Modeling_and_Forecasting_Stock_Volatility_on_the_Johannesburg_Stock_Exchange_GARCH_Approach.html   # Exported HTML notebook
-├── Modeling_and_Forecasting_Stock_Volatility_on_the_Johannesburg_Stock_Exchange_GARCH_Approach.ipynb  # Jupyter Notebook (if uploaded)
-├── README.md   # Project documentation
-
-🚀 How to Use
-
-Clone this repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-
-Open the Jupyter Notebook:
-
-jupyter notebook Modeling_and_Forecasting_Stock_Volatility_on_the_Johannesburg_
