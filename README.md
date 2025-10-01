@@ -4,8 +4,6 @@ The study uses Standard Bank (SBK.JO) data (downloaded via Yahoo Finance) to:
 
 Perform exploratory data analysis (EDA) of stock prices and returns
 
-Test for stationarity using the Augmented Dickey-Fuller (ADF) test
-
 Estimate volatility using GARCH(1,1) and GARCH(2,2) models
 
 Compare model fit using AIC/BIC and parameter significance
