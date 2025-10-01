@@ -23,3 +23,17 @@ matplotlib → visualization
 statsmodels → statistical tests (ADF)
 
 arch → GARCH modeling
+
+# **Key Results**
+
+GARCH(1,1) was selected as the optimal model due to:
+
+Lower AIC/BIC values than GARCH(2,2)
+
+Parsimonious structure (fewer but significant parameters)
+
+Better out-of-sample forecast accuracy
+
+Volatility persistence was high (α + β ≈ 0.97), a common feature of financial time series.
+
+Forecasts indicate short-term increases in volatility, relevant for risk management and investment decisions.
